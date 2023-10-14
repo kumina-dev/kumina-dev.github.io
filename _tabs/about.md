@@ -17,9 +17,9 @@ order: 4
 ## 📱 Me on media
 
 <div>
-  <a href="https://instagram.com/ville.m.syrjala"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
-  <a href="https://twitter.com/kum1na"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
-  <a href="https://discord.com/users/961851861063827497"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
+  <a href="https://instagram.com/ville.m.syrjala"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" /></a>
+  <a href="https://twitter.com/kum1na"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" /></a>
+  <a href="https://discord.com/users/961851861063827497"><img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" /></a>
 </div>
 
 ## ✨ Stats
