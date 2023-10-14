@@ -25,7 +25,7 @@ order: 4
 ## ✨ Stats
 
 <div>
-    <img src="https://api.roadmap.sh/v1-badge/wide/650eebb3d5295d7a813a0f6a?variant=dark" />
+    <img src="https://api.roadmap.sh/v1-badge/wide/650eebb3d5295d7a813a0f6a?variant=dark" alt="Roadmap" />
 </div>
 
 *If you find my work valuable, consider [buying me a coffee](https://ko-fi.com/kumina) to support my journey.*
